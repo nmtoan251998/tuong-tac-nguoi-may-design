@@ -1,0 +1,19 @@
+----------------------------- USER --------------------------------
+- 1. Chuyen logo sang mep trai.					  -
+- 2. Them logo (new) trong trang chu.				  -
+- 3. Thay doi hinh anh cua cac item trong trang chu.		  -
+- 4. Sua cac mo ta thay doi.					  -
+- 5. Hien thi cac thong so cu the thay vi text mau.		  -
+- 6. Tang fontsize cho CopyRight HIT PETSHOP.			  -
+- 7. Them prototype cho cac UI bang cach tao them trang moi.	  -
+- 8. Trong trang checkout, chi viet hoa chu cai dau tien.	  -
+- 9. Tang fontsize cho cac o chu.				  -
+- 10. Them phan huy don hang cho user.				  -
+- 11. Dung chu thuong cho menu trong trang all-products.	  -
+----------------------------- USER --------------------------------
+
+----------------------------- ADMIN --------------------------------
+- 1. Them phan don hang, xuat hoa don cho admin.		   -
+- 2. Xuat hoa don.						   -
+- 3. Cap nhat trang thai don hang.				   -
+----------------------------- ADMIN --------------------------------

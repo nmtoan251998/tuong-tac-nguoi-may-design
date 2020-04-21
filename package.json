@@ -1,0 +1,23 @@
+{
+  "name": "tuongtacnguoimay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=/src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmtoan251998/tuong-tac-nguoi-may-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmtoan251998/tuong-tac-nguoi-may-design/issues"
+  },
+  "homepage": "https://github.com/nmtoan251998/tuong-tac-nguoi-may-design#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
